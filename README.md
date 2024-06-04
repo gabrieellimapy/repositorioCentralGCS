@@ -1,3 +1,2 @@
-# repositorioCentralGCS
-Repositório Central
-#Raphael Leite Campos 2023/2 G16030-00200
+# Nome Completo + Ano / Semestre + Código da Turma
+Gabriel Lima da Silva, 2024/1, GR96001-00326
